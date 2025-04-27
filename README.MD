@@ -1,6 +1,6 @@
-# CALCLO Content Competition - Spring 2025
+# CALICO Content Competition - Spring 2025
 
-Welcome to my official repository for the **CALCLO Content Competition - Spring 2025**!
+Welcome to my official repository for the **CALICO Content Competition - Spring 2025**!
 
 ## 📚 About
 This repository contains all my submissions, ideas, drafts, and final content created for the competition.  
