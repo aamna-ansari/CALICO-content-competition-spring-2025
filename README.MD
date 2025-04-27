@@ -8,8 +8,8 @@ The goal is to showcase creativity, problem-solving, and communication skills th
 
 
 ## 📅 Timeline
-- Competition Start: 04:00 AM to 07:00 AM
-- Submission Deadline:  3 Hours
+- **Competition Start:** 04:00 AM to 07:00 AM
+-**Submission Deadline:**  3 Hours
 
 ## 🏆 Goals
 - Contribute high-quality and impactful content
@@ -18,4 +18,4 @@ The goal is to showcase creativity, problem-solving, and communication skills th
 
 ---
 
-Thank you for checking out my work! 🌟
+Thank You 🧡
