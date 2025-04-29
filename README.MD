@@ -21,6 +21,9 @@ The goal is to showcase creativity, problem-solving, and communication skills th
 - Improve communication, design, and presentation skills
 - Learn and grow through feedback and competition experience
 
+# Ranking
+
+![206 rank.PNG](./images/206%20rank.PNG)
 ---
 
 Thank you 🧡
