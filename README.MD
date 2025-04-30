@@ -1,6 +1,6 @@
 ![CALICO Logo](https://calico.berkeley.edu/images/banner/blocks.png)
 
-# CALICO Content Competition - Spring 2025
+# CALICO Content Competition - Spring 2025 🧡
 
 Welcome to my official repository for the **CALICO Content Competition - Spring 2025**!
 
