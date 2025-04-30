@@ -1,6 +1,6 @@
 ![CALICO Logo](https://calico.berkeley.edu/images/banner/blocks.png)
 
-# CALICO Content Competition - Spring 2025 🧡
+# CALICO Content Competition - Spring 2025 [🧡](https://www.linkedin.com/feed/update/urn:li:ugcPost:7323413259720572928/)
 
 Welcome to my official repository for the **CALICO Content Competition - Spring 2025**!
 
@@ -24,6 +24,8 @@ The goal is to showcase creativity, problem-solving, and communication skills th
 # Ranking
 
 ![206 rank.PNG](./images/206%20rank.PNG)
+
+[Click me](https://www.linkedin.com/feed/update/urn:li:ugcPost:7323413259720572928/)
 ---
 
 Thank you 🧡
